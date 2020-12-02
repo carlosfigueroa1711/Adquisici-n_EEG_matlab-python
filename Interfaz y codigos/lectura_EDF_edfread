@@ -1,0 +1,4 @@
+
+
+archivo=uigetfile();
+[h,r]=edfread(archivo);
